@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name": "Air Pods",
+        "price": 500
+    },
+    {
+        "id":2,
+        "name": "Phones",
+        "price": 50000
+    },
+    {
+        "id":3,
+        "name": "Laptop",
+        "price": 4500
+    },
+    {
+        "id":4,
+        "name": "Bags",
+        "price": 5200
+    }
+]
